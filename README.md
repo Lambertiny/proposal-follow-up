@@ -2,7 +2,13 @@
 
 ![FOLLOW UP Cover](./screenshots/cover-follow-up.png)
 
-[Live Demo](https://proposal-follow-up-ten.vercel.app) · [View Repository](https://github.com/Lambertiny/proposal-follow-up)
+<p align="center">
+  <a href="https://proposal-follow-up-ten.vercel.app">Live Demo</a>
+  ·
+  <a href="https://github.com/Lambertiny/proposal-follow-up">View Repository</a>
+</p>
+
+---
 
 ## Overview
 
@@ -10,7 +16,7 @@
 
 The product brings proposals, follow-up priorities, automation rules and commercial signals into one focused interface — reducing the risk of valuable opportunities disappearing after a proposal is sent.
 
-The project was designed and developed as a complete portfolio case exploring **product design, UI/UX, Vue, TypeScript, responsive front-end architecture and workflow automation concepts**.
+The project was designed and developed as a complete portfolio case exploring **Product Design, UI/UX, Vue, TypeScript, responsive front-end architecture and workflow automation concepts**.
 
 ---
 
@@ -133,36 +139,19 @@ The goal is not only to display data, but to make the next commercial action eas
 
 FOLLOW//UP was designed as a responsive product rather than a desktop interface simply scaled down for mobile.
 
-Navigation, metrics, cards, tables and workflows reorganize according to the available screen width.
+Navigation, metrics, cards, tables and workflows reorganize according to the available screen width while preserving hierarchy, clarity and usability.
 
-### Overview
+### Mobile Screens
 
 <p align="center">
-  <img src="./screenshots/overview-mobile.png" width="360" alt="FOLLOW UP Overview Mobile">
+  <img src="./screenshots/overview-mobile.png" width="180" alt="FOLLOW UP Overview Mobile">
+  <img src="./screenshots/queue-mobile.png" width="180" alt="FOLLOW UP Queue Mobile">
+  <img src="./screenshots/proposals-mobile.png" width="180" alt="FOLLOW UP Proposals Mobile">
 </p>
 
-### Follow Up Queue
-
 <p align="center">
-  <img src="./screenshots/queue-mobile.png" width="360" alt="FOLLOW UP Queue Mobile">
-</p>
-
-### Proposals
-
-<p align="center">
-  <img src="./screenshots/proposals-mobile.png" width="360" alt="FOLLOW UP Proposals Mobile">
-</p>
-
-### Automation Rules
-
-<p align="center">
-  <img src="./screenshots/automations-mobile.png" width="360" alt="FOLLOW UP Automations Mobile">
-</p>
-
-### Insights
-
-<p align="center">
-  <img src="./screenshots/insights-mobile.png" width="360" alt="FOLLOW UP Insights Mobile">
+  <img src="./screenshots/automations-mobile.png" width="180" alt="FOLLOW UP Automations Mobile">
+  <img src="./screenshots/insights-mobile.png" width="180" alt="FOLLOW UP Insights Mobile">
 </p>
 
 ---
@@ -189,19 +178,19 @@ The application uses browser-side persistence for portfolio demonstration purpos
 
 ## Technology Stack
 
-**Front-end**
+### Front-End
 
 `Vue 3` · `TypeScript` · `Vue Router` · `Vite`
 
-**Interface**
+### Interface
 
-`HTML5` · `CSS3` · Responsive Design · UI/UX · Product Design
+`HTML5` · `CSS3` · `Responsive Design` · `UI/UX` · `Product Design`
 
-**Development & Quality**
+### Development & Quality
 
 `ESLint` · `Oxlint` · `Prettier` · `Vue TSC`
 
-**Deployment**
+### Deployment
 
 `GitHub` · `Vercel`
 
@@ -213,6 +202,7 @@ The application uses browser-side persistence for portfolio demonstration purpos
 proposal-follow-up/
 │
 ├── public/
+│
 ├── screenshots/
 │   ├── cover-follow-up.png
 │   ├── overview-desktop.png
@@ -295,4 +285,11 @@ The source code, interface design, visual identity, project concept and associat
 
 ---
 
-**Designed & developed by Juliana Nascimento — Lambertiny**
+<p align="center">
+  <strong>FOLLOW//UP</strong><br>
+  Proposal Operations
+</p>
+
+<p align="center">
+  Designed & developed by <strong>Juliana Nascimento — Lambertiny</strong>
+</p>
